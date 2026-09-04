@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "d70b3457c13147c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c45381d7dfa696e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d1585b083a81753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Champions/Alsgor Crimsonhorn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alsgor Crimsonhorn"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eca0bb5fa706b109",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed7ebcecacb1ccfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85dbf7d1fba04db7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "32417dba599cdae2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0f9ff5c29ddf5333",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de2f7f267e891c96",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4498f2c6dfdf1f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19e4c6e23dea2543",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Champions/Alsgor Crimsonhorn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ebb67292ccf080f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Champions/Alsgor Crimsonhorn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b38bd03f7b1e0279",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8b2f787226682299",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2261d7b854f05c26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Champions/Alsgor Crimsonhorn.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4d1585b083a81753",
+  "lastOpenFiles": [
+    "01 Champions/Alice the Wanderer.md",
+    "01 Champions/Corvis the Corruptor.md",
+    "01 Champions/Abyssal.md",
+    "01 Champions/(6828).md",
+    "01 Champions/(6826).md",
+    "01 Champions/(6825).md",
+    "01 Champions/(6824).md",
+    "00 Dashboard.md",
+    "02 Teams/Clan Boss - Current (Brutal).md",
+    "01 Champions/Adjudicator.md",
+    "02 Teams/Banner Lords Faction Wars.md",
+    "03 Strategies/General Strategy Notes.md",
+    "03 Strategies/Build Priorities.md",
+    "06 Dev Projects/raid_roster status.md",
+    "05 History/Historical Knowledge Archive.md",
+    "04 Progress/Clan Boss.md",
+    "README.md"
+  ]
+}
